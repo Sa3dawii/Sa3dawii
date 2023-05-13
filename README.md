@@ -1,6 +1,8 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
+<!-- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+ -->
+ 
+ <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 <h3 align="center">
   Welcome to Muhammed Saad's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -11,8 +13,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Web%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Front-End developer.
-- 👨‍💻 As a self-taught learner in computer science, I'm constantly learning and exploring new technologies to improve my skills.
+- I'm a Front-End developer.
+- As a self-taught learner in computer science,<br> I'm constantly learning and exploring new technologies to improve my skills.
+- For This Moment I'm junior web developer and learning increasingly.
 
 
 ### Connect with Me :
