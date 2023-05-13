@@ -12,10 +12,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Web%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+<h3>🚀 About Me</h3> 
 
-- I'm a Front-End developer.
-- As a self-taught learner in computer science,<br> I'm constantly learning and exploring new technologies to improve my skills.
-- For This Moment I'm junior web developer and learning increasingly.
+I had passion for the web since I was young.<br> I fell in love with front-end development and all the new technologies coming to the browsers.<br>
+At the moment, I am a junior web developer and I am constantly improving my skills through learning.
 
 
 ### Connect with Me :
